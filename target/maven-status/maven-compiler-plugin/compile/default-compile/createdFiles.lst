@@ -1,0 +1,4 @@
+com/zegates/vozco/Main.class
+com/zegates/vozco/services/CouchDBServiceImpl.class
+com/zegates/vozco/services/CouchDBService.class
+com/zegates/vozco/verticles/CouchDBVerticle.class
